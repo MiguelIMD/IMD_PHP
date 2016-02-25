@@ -1,0 +1,18 @@
+.rood{
+    background-color:#e42a23;
+}
+
+.orange{
+    background-color:#e74b26;
+}
+
+.groen{
+    background-color:#2ba42b;
+}
+
+li {
+    list-style-type: none;
+}
+section{
+    margin-left: 20px;
+}
